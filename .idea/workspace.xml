@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/task_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/task_1/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_homeworks.iml" afterDir="false" />
+    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="Comlete task">
+      <change afterPath="$PROJECT_DIR$/Lesson_2/array_obj/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/array_obj/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/logic_if/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/logic_if/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Богдан/IdeaProjects/js_homeworks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -51,11 +57,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675257145775</updated>
-      <workItem from="1675257147383" duration="1258000" />
+      <workItem from="1675257147383" duration="2722000" />
+      <workItem from="1675366264081" duration="29000" />
+      <workItem from="1675493409921" duration="10888000" />
     </task>
+    <task id="LOCAL-00001" summary="Comlete task">
+      <created>1675258630170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675258630170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Comlete task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comlete task" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Lesson_2/logic_if/js/main.js</url>
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
