@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="Comlete task js lesson 2">
-      <change afterPath="$PROJECT_DIR$/Lesson_3/homework/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/homework/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/homework/style/style.css" afterDir="false" />
+    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="Create index.html, main.js, style.css.&#10;Complete task homework learn3 in JS">
+      <change afterPath="$PROJECT_DIR$/lesson_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,9 @@
       <workItem from="1675257147383" duration="2722000" />
       <workItem from="1675366264081" duration="29000" />
       <workItem from="1675493409921" duration="11230000" />
-      <workItem from="1675796636898" duration="4567000" />
+      <workItem from="1675796636898" duration="5244000" />
+      <workItem from="1675951462299" duration="29000" />
+      <workItem from="1676117226855" duration="11482000" />
     </task>
     <task id="LOCAL-00001" summary="Comlete task">
       <created>1675258630170</created>
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675505010147</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create index.html, main.js, style.css.&#10;Complete task homework learn3 in JS">
+      <created>1675801319217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675801319217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +105,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Comlete task" />
     <MESSAGE value="Comlete task js lesson 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comlete task js lesson 2" />
+    <MESSAGE value="Create index.html, main.js, style.css.&#10;Complete task homework learn3 in JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create index.html, main.js, style.css.&#10;Complete task homework learn3 in JS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
