@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="Create index.html, main.js.&#10;Complete task homework learn4 in JS">
-      <change afterPath="$PROJECT_DIR$/lesson_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/js/main.js" afterDir="false" />
+    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="Create index.html, main.js.&#10;Complete task homework learn5 in JS">
+      <change afterPath="$PROJECT_DIR$/lesson_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Богдан\IdeaProjects\js_homeworks\lesson_4\homework" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +79,11 @@
       <workItem from="1675796636898" duration="5244000" />
       <workItem from="1675951462299" duration="29000" />
       <workItem from="1676117226855" duration="11922000" />
-      <workItem from="1676448887613" duration="7957000" />
+      <workItem from="1676448887613" duration="8286000" />
+      <workItem from="1676468423843" duration="131000" />
+      <workItem from="1676558598494" duration="684000" />
+      <workItem from="1676618142250" duration="688000" />
+      <workItem from="1676630101785" duration="13143000" />
     </task>
     <task id="LOCAL-00001" summary="Comlete task">
       <created>1675258630170</created>
@@ -104,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676128880559</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Create index.html, main.js.&#10;Complete task homework learn5 in JS">
+      <created>1676464437264</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676464437264</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +131,8 @@
     <MESSAGE value="Comlete task js lesson 2" />
     <MESSAGE value="Create index.html, main.js, style.css.&#10;Complete task homework learn3 in JS" />
     <MESSAGE value="Create index.html, main.js.&#10;Complete task homework learn4 in JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create index.html, main.js.&#10;Complete task homework learn4 in JS" />
+    <MESSAGE value="Create index.html, main.js.&#10;Complete task homework learn5 in JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create index.html, main.js.&#10;Complete task homework learn5 in JS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
