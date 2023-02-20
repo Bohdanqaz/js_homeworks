@@ -115,41 +115,150 @@
 //     color:'', // 'red','black'
 // }
 //
-let cards = [];
-let colorsCards = ['spade', 'diamond', 'heart', 'clubs'];
-let valueCards = [6, 7, 8, 9, 10, 'jack', 'queen', 'king', 'ace'];
+// let cards = [];
+// let colorsCards = ['spade', 'diamond', 'heart', 'clubs'];
+// let valueCards = [6, 7, 8, 9, 10, 'jack', 'queen', 'king', 'ace'];
+//
+// function createCardsDeck(emptyArray, color, value) {
+//     let num = 0;
+//     for (x = 0; x < color.length; x++) {
+//         for (a = 0; a < value.length; a++) {
+//             emptyArray[num++] = color[x]
+//                 .replace(color[x], color[x] + ' ')
+//                 .concat(value[a]);
+//         }
+//     }
+//     return emptyArray;
+// }
+//
+// let cardsDeck = (createCardsDeck(cards, colorsCards, valueCards));
+// console.log(cardsDeck);
+// // - знайти піковий туз
+// let spaceAce = cardsDeck.find(search => search === 'spade ace');
+// console.log(spaceAce);
+// // - всі шістки
+// let allCardsIn6 = cardsDeck.filter(search => search.includes('6'));
+// console.log(allCardsIn6);
+// // - всі червоні карти
+// allRedCards = cardsDeck.filter(search => search.includes('diamond') || search.includes('heart'));
+// console.log(allRedCards);
+// //- всі буби
+// diamondCards = cardsDeck.filter(search => search.includes('diamond'));
+// console.log(diamondCards);
+// // - всі трефи від 9 та більше
+// let clubsfilter = cardsDeck.filter(search => search.includes('clubs'));
+// console.log(clubsfilter.slice(3));
 
-function createCardsDeck(emptyArray, color, value) {
-    let num = 0;
-    for (x = 0; x < color.length; x++) {
-        for (a = 0; a < value.length; a++) {
-            emptyArray[num++] = color[x]
-                .replace(color[x], color[x] + ' ')
-                .concat(value[a]);
-        }
-    }
-    return emptyArray;
-}
+// Взяти описану колоду карт, та за допомоги reduce упакувати всі карти по "мастях" в об'єкт
+// {
+//     spades:[],
+//     diamonds:[],
+//     hearts:[],
+//     clubs:[]
+// }
+//
+// let completeDeck = cardsDeck.reduce((acumulator, card) => {
+//     if (card.includes('clubs')) {
+//         acumulator.clubs.push(card);
+//     } else if (card.includes('spade')) {
+//         acumulator.spades.push((card))
+//     } else if (card.includes('diamond')) {
+//         acumulator.diamonds.push((card))
+//     } else if (card.includes('heart')) {
+//         acumulator.hearts.push((card))
+//     }
+//     return acumulator;
+// }, {
+//     spades : [],
+//     diamonds : [],
+//     hearts : [],
+//     clubs : []
+// });
+// console.log(completeDeck);
 
-let cardsDeck = (createCardsDeck(cards, colorsCards, valueCards));
-console.log(cardsDeck);
-// - знайти піковий туз
-let spaceAce = cardsDeck.find(search => search === 'spade ace');
-console.log(spaceAce);
-// - всі шістки
-let allCardsIn6 = cardsDeck.filter(search => search.includes('6'));
-console.log(allCardsIn6);
-// - всі червоні карти
-allRedCards = cardsDeck.filter(search => search.includes('diamond') || search.includes('heart'));
-console.log(allRedCards);
-//- всі буби
-diamondCards = cardsDeck.filter(search => search.includes('diamond'));
-console.log(diamondCards);
-// - всі трефи від 9 та більше
-let clubs9More = cardsDeck.filter (search => search.includes('clubs'));
-        // || search.lastIndex(!'6')
-
-
-
-
-
+// взяти з arrays.js (який лежить в папці 2023 plan) масив coursesArray
+// --написати пошук всіх об'єктів, в який в modules є sass
+// --написати пошук всіх об'єктів, в який в modules є docker
+//
+// let coursesArray = [
+//     {
+//         title: 'JavaScript Complex',
+//         monthDuration: 5,
+//         hourDuration: 909,
+//         modules: ['html', 'css', 'js', 'mysql', 'mongodb', 'react', 'angular', 'aws', 'docker', 'git', 'node.js']
+//     },
+//     {
+//         title: 'Java Complex',
+//         monthDuration: 6,
+//         hourDuration: 909,
+//         modules: ['html',
+//             'css',
+//             'js',
+//             'mysql',
+//             'mongodb',
+//             'angular',
+//             'aws',
+//             'docker',
+//             'git',
+//             'java core',
+//             'java advanced']
+//     },
+//     {
+//         title: 'Python Complex',
+//         monthDuration: 6,
+//         hourDuration: 909,
+//         modules: ['html',
+//             'css',
+//             'js',
+//             'mysql',
+//             'mongodb',
+//             'angular',
+//             'aws',
+//             'docker',
+//             'python core',
+//             'python advanced']
+//     },
+//     {
+//         title: 'QA Complex',
+//         monthDuration: 4,
+//         hourDuration: 909,
+//         modules: ['html', 'css', 'js', 'mysql', 'mongodb', 'git', 'QA/QC']
+//     },
+//     {
+//         title: 'FullStack',
+//         monthDuration: 7,
+//         hourDuration: 909,
+//         modules: ['html',
+//             'css',
+//             'js',
+//             'mysql',
+//             'mongodb',
+//             'react',
+//             'angular',
+//             'aws',
+//             'docker',
+//             'git',
+//             'node.js',
+//             'python',
+//             'java']
+//     },
+//     {
+//         title: 'Frontend',
+//         monthDuration: 4,
+//         hourDuration: 909,
+//         modules: ['html', 'css', 'js', 'mysql', 'mongodb', 'react', 'angular', 'aws', 'docker', 'git', 'sass']
+//     }
+// ];
+// //
+// let allSassSkill = coursesArray.filter(search => {
+//     if(search.modules.includes('sass')){
+//     return search;
+//     }
+// });
+// let allDockerSkill = coursesArray.filter(search => {
+//     if(search.modules.includes('docker')){
+//         return search;
+//     }
+// });
+// console.log(allSassSkill);
+// console.log(allDockerSkill);
