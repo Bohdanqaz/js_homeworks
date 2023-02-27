@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="Create index.html, main.js.&#10;Complete task homework learn6 in JS">
+    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="edit main.js.&#10;Complete task homework learn 6 in JS">
+      <change afterPath="$PROJECT_DIR$/lesson_8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,8 @@
       <workItem from="1676558598494" duration="684000" />
       <workItem from="1676618142250" duration="688000" />
       <workItem from="1676630101785" duration="13199000" />
-      <workItem from="1676879920948" duration="6608000" />
+      <workItem from="1676879920948" duration="6643000" />
+      <workItem from="1677488127259" duration="8502000" />
     </task>
     <task id="LOCAL-00001" summary="Comlete task">
       <created>1675258630170</created>
@@ -127,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676714606450</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="edit main.js.&#10;Complete task homework learn 6 in JS">
+      <created>1676890982387</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676890982387</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +149,8 @@
     <MESSAGE value="Create index.html, main.js.&#10;Complete task homework learn4 in JS" />
     <MESSAGE value="Create index.html, main.js.&#10;Complete task homework learn5 in JS" />
     <MESSAGE value="Create index.html, main.js.&#10;Complete task homework learn6 in JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create index.html, main.js.&#10;Complete task homework learn6 in JS" />
+    <MESSAGE value="edit main.js.&#10;Complete task homework learn 6 in JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit main.js.&#10;Complete task homework learn 6 in JS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
