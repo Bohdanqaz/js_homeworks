@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="edit main.js.&#10;Complete task homework learn 6 in JS">
-      <change afterPath="$PROJECT_DIR$/lesson_8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_8/js/main.js" afterDir="false" />
+    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="edit main.js.&#10;Complete task homework learn 8 in JS">
+      <change afterPath="$PROJECT_DIR$/lesson_9/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/taskForTemplate/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/taskForTemplate/template1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +88,8 @@
       <workItem from="1676618142250" duration="688000" />
       <workItem from="1676630101785" duration="13199000" />
       <workItem from="1676879920948" duration="6643000" />
-      <workItem from="1677488127259" duration="8502000" />
+      <workItem from="1677488127259" duration="9393000" />
+      <workItem from="1677667304099" duration="10452000" />
     </task>
     <task id="LOCAL-00001" summary="Comlete task">
       <created>1675258630170</created>
@@ -136,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676890982387</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="edit main.js.&#10;Complete task homework learn 6 in JS">
+      <created>1677499995611</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677499995611</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
