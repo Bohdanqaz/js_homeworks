@@ -4,12 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="edit main.js.&#10;Complete task homework learn 8 in JS">
-      <change afterPath="$PROJECT_DIR$/lesson_9/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_9/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_9/taskForTemplate/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_9/taskForTemplate/template1.html" afterDir="false" />
+    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="edit main.js.&#10;Complete task homework learn 9 in JS">
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_1/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_1/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_2/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_3/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_3/js/session.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_3/session.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_3/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_4/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_4/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_5/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10/task_5/style/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -65,6 +77,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Богдан\IdeaProjects\js_homeworks\lesson_10\task_1" />
+      <recent name="C:\Users\Богдан\IdeaProjects\js_homeworks\lesson_10\cart" />
+      <recent name="C:\Users\Богдан\IdeaProjects\js_homeworks\lesson_10" />
       <recent name="C:\Users\Богдан\IdeaProjects\js_homeworks\lesson_4\homework" />
     </key>
   </component>
@@ -89,7 +104,11 @@
       <workItem from="1676630101785" duration="13199000" />
       <workItem from="1676879920948" duration="6643000" />
       <workItem from="1677488127259" duration="9393000" />
-      <workItem from="1677667304099" duration="10452000" />
+      <workItem from="1677667304099" duration="10526000" />
+      <workItem from="1677831957463" duration="9318000" />
+      <workItem from="1677855434976" duration="13581000" />
+      <workItem from="1677936168351" duration="14711000" />
+      <workItem from="1678016371182" duration="10503000" />
     </task>
     <task id="LOCAL-00001" summary="Comlete task">
       <created>1675258630170</created>
@@ -147,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677499995611</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="edit main.js.&#10;Complete task homework learn 9 in JS">
+      <created>1677680198197</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677680198197</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +187,8 @@
     <MESSAGE value="Create index.html, main.js.&#10;Complete task homework learn5 in JS" />
     <MESSAGE value="Create index.html, main.js.&#10;Complete task homework learn6 in JS" />
     <MESSAGE value="edit main.js.&#10;Complete task homework learn 6 in JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit main.js.&#10;Complete task homework learn 6 in JS" />
+    <MESSAGE value="edit main.js.&#10;Complete task homework learn 9 in JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit main.js.&#10;Complete task homework learn 9 in JS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

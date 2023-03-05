@@ -1,0 +1,19 @@
+.userInfo {
+    box-sizing: border-box;
+    padding: 5px;
+    width: 400px;
+    height: 100px;
+    background-color: #eeeded;
+    border: 1px solid #212020;
+    border-radius: 5px;
+}
+
+button {
+    margin: 5px 0 15px;
+}
+.userInfo h3{
+    text-align: center;
+}
+.userInfo p{
+    text-align: center;
+}
