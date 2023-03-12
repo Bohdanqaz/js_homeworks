@@ -1,8 +1,6 @@
 let postInfo = JSON.parse(new URL(location.href).searchParams.get('data'));
-console.log(postInfo);
 let back = document.createElement('a');
 let prevPage = new URL(location.href).searchParams.get('prevPage');
-console.log(prevPage);
 let linksDiv = document.getElementsByClassName('links')[0];
 back.classList.add('backLink', 'prevPage');
 back.innerText = `Back`;
@@ -14,7 +12,6 @@ title.innerText = postInfo.title.toUpperCase();
 let postInner = document.getElementsByClassName('post-inner')[0];
 postInner.innerText = postInfo.body;
 let userInfo = document.getElementsByClassName('User-info')[0].getElementsByTagName('p');
-console.log(userInfo);
 userInfo[0].innerText = `Post Id: ${postInfo.id}`;
 userInfo[1].innerText = `User Id: ${postInfo.userId}`
 fetch(commentsURL)

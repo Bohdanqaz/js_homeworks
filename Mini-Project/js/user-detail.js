@@ -34,7 +34,6 @@ btn.onclick = (() => {
     if (btn.innerText === 'posts of current user'.toUpperCase()) {
         btn.innerText = 'hide posts of current user'.toUpperCase();
         postsUsers.style.display = 'flex';
-
     } else if (btn.innerText === 'hide posts of current user'.toUpperCase()) {
         btn.innerText = 'posts of current user'.toUpperCase();
         postsUsers.style.display = 'none';

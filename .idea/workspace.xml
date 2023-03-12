@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="edit main.js.&#10;Complete task homework learn 10 for JS">
-      <change afterPath="$PROJECT_DIR$/Mini-Project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-Project/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-Project/js/post-details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-Project/js/user-detail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-Project/post-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-Project/style/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-Project/style/post-detail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-Project/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-Project/style/user-detail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-Project/user-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_12/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_12/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_12/js/user-details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_12/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_12/style/user-details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_12/user-details.html" afterDir="false" />
+    <list default="true" id="cb07ec0a-217e-4696-887d-d565afd838cc" name="Changes" comment="Complete MiniProject">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +109,8 @@
       <workItem from="1678560481815" duration="3642000" />
       <workItem from="1678611745246" duration="5624000" />
       <workItem from="1678621746131" duration="10438000" />
-      <workItem from="1678641039806" duration="8732000" />
+      <workItem from="1678641039806" duration="8957000" />
+      <workItem from="1678650332900" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="Comlete task">
       <created>1675258630170</created>
@@ -197,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678033209323</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Complete MiniProject">
+      <created>1678650024660</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678650024660</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +205,8 @@
     <MESSAGE value="edit main.js.&#10;Complete task homework learn 6 in JS" />
     <MESSAGE value="edit main.js.&#10;Complete task homework learn 9 in JS" />
     <MESSAGE value="edit main.js.&#10;Complete task homework learn 10 for JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit main.js.&#10;Complete task homework learn 10 for JS" />
+    <MESSAGE value="Complete MiniProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete MiniProject" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
