@@ -1,0 +1,90 @@
+body{
+    background-image: url("../img/background.jpg");
+    font-family: 'Lemonada', cursive;
+    color: #eeeded;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    color: #eeeded;
+    font-weight: 600;
+}
+.backLink{
+    position: absolute;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #eeeded;
+}
+.prevPage{
+    margin-left: 140px;
+}
+.post{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 800px;
+    background-color: rgba(28, 27, 27 , 0.6);
+}
+.post h3{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 10px 5px;
+    width: 100%;
+    background-color: rgba(25, 25, 25, 0.8);
+}
+.post-inner{
+    line-height: 1.5;
+}
+.User-info{
+    margin: 0 auto;
+    display: flex;
+    width: 800px;
+}
+.User-info p{
+    margin-bottom: 70px;
+}
+.User-info p:nth-child(1){
+    margin-right: 30px;
+}
+h3{
+    margin: 0 auto;
+    display: flex;
+    width: 800px;
+    margin-bottom: 30px;
+}
+.comments{
+}
+.comment{
+    margin: 0 auto 30px;
+    max-width: 650px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(28, 27, 27 , 0.6);
+}
+.comment-inner{
+    margin-left: 10px;
+}
+h4.title{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 100%;
+    padding: 7px 0;
+    background-color: rgba(25, 25, 25, 0.8);
+}
+.authot-info{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 5px 0;
+    background-color: rgba(25, 25, 25, 0.8);
+}
